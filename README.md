@@ -3,12 +3,12 @@
 
 ### Hello I'm [Lucky Pratama S!](https://www.linkedin.com/in/lucky-sopyantoro-a605a9138/) 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=luckysopyantoro&show_icons=true&include_all_commits=true&theme=default" alt="Anurag's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=luckypratamas&show_icons=true&include_all_commits=true&theme=default" alt="Anurag's github stats"/>
 
 Learner
 
 ### Languages :
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckysopyantoro&layout=compact&theme=default"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckypratamas&layout=compact&theme=default"/>
 
 <br>
 
